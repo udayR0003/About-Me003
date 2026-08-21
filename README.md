@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Uday Rathore</h1>
+<h1 align="center">Hi I'm Uday Rathore</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I Worked Here [Personal Resume Website](https://github.com/udayR0003/resume-personal-blogging)
